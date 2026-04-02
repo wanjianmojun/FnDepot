@@ -4,7 +4,7 @@
     "platform": ["x86", "arm"],
     "desc": "easydown下载器是一款专门为飞牛开发的M3U8视频下载工具，汇总支持10+站点的专用解析，以及100+下载线路的选择。集专用解析、智能解析、批量下载、猫抓对接下载、订阅下载、去广告下载、专属移动端界面、自动更新、arm/x86专属性能优化 于一体的工具。",
     "labels": "m3u8,下载,工具",
-    "version": "1.3.31",
+    "version": "1.3.33",
     "author": "万剑魔君",
     "author_url": "https://github.com/wanjianmojun",
     "bug_report_url": "https://github.com/wanjianmojun/FnDepot/issues",
@@ -12,14 +12,14 @@
     "size": "40",
     "arch_diff": {
       "x86": {
-        "download_url": "https://pan.staryears.cn/f/d2et4/easydown-x86-1.3.31.fpk",
+        "download_url": "https://pan.staryears.cn/f/6mEf7/easydown-x86-1.3.33.fpk",
         "size": "40"
       },
       "arm": {
-        "version": "1.3.31",
+        "version": "1.3.33",
         "size": "38",
         "desc": "easydown下载器是一款专门为飞牛开发的M3U8视频下载工具，汇总支持10+站点的专用解析，以及100+下载线路的选择。集专用解析、智能解析、批量下载、猫抓对接下载、订阅下载、去广告下载、专属移动端界面、自动更新、arm/x86专属性能优化 于一体的工具。",
-        "download_url": "https://pan.staryears.cn/f/NB3Hm/easydown-arm-1.3.31.fpk"
+        "download_url": "https://pan.staryears.cn/f/jqPSO/easydown-arm-1.3.33.fpk"
       }
     },
     "history": {
