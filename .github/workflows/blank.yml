@@ -21,7 +21,7 @@ jobs:
       - name: Download file
         run: |
           mkdir -p ./dist
-          curl -L -o ./dist/easydown-arm-1.3.38.fpk http://150.138.92.109:9977/fpk/easydown-arm-1.3.38.fpk
+          curl -L -o ./dist/easydown-arm-1.3.38.fpk http://www.tswords.top/fpk/easydown-arm-1.3.38.fpk
           # 验证文件是否下载成功
           ls -lh ./dist/easydown-arm-1.3.38.fpk
 
