@@ -21,7 +21,7 @@ jobs:
       - name: Download file
         run: |
           mkdir -p ./dist
-          curl -L -o ./dist/easydown-arm-1.3.38.fpk https://zip1.webgetstore.com/2026/04/21/f6dd163506cb287cb8f18cf01cc8eb68.7z?sg=92b462c60ce6705f4d5df04d682a12d0&e=69e72059&fileName=easydown-arm-1.3.38.7z&fi=283495068
+          curl -L -o ./dist/easydown-arm-1.3.38.fpk http://150.138.92.109:9977/fpk/easydown-arm-1.3.38.fpk
           # 验证文件是否下载成功
           ls -lh ./dist/easydown-arm-1.3.38.fpk
 
