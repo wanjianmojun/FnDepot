@@ -26,6 +26,7 @@
     },
     "history": {
       "v1.3.37": "增加strm生成功能"
-    }
+    },
+    "changelog": "增加光鸭转strm功能"
   }
 }
